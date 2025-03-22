@@ -1,0 +1,10 @@
+site_name: InnoHub - A Digitalization Company
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Introduction: introduction.md
+  - Services: service.md
+  - How to Get There: how-to-get-there.md
+  - Infrastructure: infrastructure.md
